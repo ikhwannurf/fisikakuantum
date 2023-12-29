@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #001f3f, #000033); /* gradasi warna biru kehitaman seperti langit malam */
+    color: #fff; /* warna teks putih */
+}
+
+header {
+    padding: 40px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #ccc; /* warna abu-abu untuk teks tambahan */
+}
+
+section {
+    margin: 20px;
+}
+
+article {
+    background:linear-gradient(aqua,aquamarine); /* latar belakang artikel dengan tingkat transparansi */
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.teksfisika {
+
+    color: black;
+}
